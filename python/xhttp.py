@@ -136,7 +136,10 @@ subscription_links = [
                 "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub9.txt",
                 "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub10.txt",
                 "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub11.txt",
-                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub12.txt"
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub12.txt",
+                "https://raw.githubusercontent.com/lagzian/SS-Collector/refs/heads/main/reality.txt",
+                "https://raw.githubusercontent.com/M-logique/Proxies/refs/heads/main/proxies/tvc/configshub.txt",
+                "https://raw.githubusercontent.com/NRi94/a1/refs/heads/main/svmes.txt"
 ]
 
 output_file = "output/xhttp.txt"
