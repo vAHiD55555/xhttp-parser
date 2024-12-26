@@ -125,6 +125,18 @@ subscription_links = [
                 "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Config%20list41.txt",
                 "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Config%20list42.txt",
                 "https://raw.githubusercontent.com/Epodonios/v2ray-configs/refs/heads/main/Config%20list43.txt"
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub1.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub2.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub3.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub4.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub5.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub6.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub7.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub8.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub9.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub10.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub11.txt",
+                "https://raw.githubusercontent.com/barry-far/V2ray-Configs/refs/heads/main/Sub12.txt"
 ]
 
 output_file = "output/xhttp.txt"
